@@ -54,5 +54,5 @@ export default function Idle() {
         )}
       </h3>
     </div>
-  );
+  );  
 }
